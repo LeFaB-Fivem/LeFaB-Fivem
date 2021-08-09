@@ -2,12 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## Je suis étudiant en informatique
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 Je travaille actuellement sur du développement Fivem .
+- 💪🏼 Objectifs futurs : En savoir plus sur le développement - N'arrêtez jamais de créer de nouvelles idées..
 
 ---
 
@@ -23,9 +21,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Embleme.jpg" />][discord]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
@@ -46,10 +42,6 @@
 </div
 
 <br/>
-
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
 
 ---
 
