@@ -4,7 +4,7 @@
 
 ## Je suis étudiant en informatique
 
-- 👨‍💻 Je travaille actuellement sur du développement Fivem .
+- 👨‍💻 Developement Lua, html, java-script, css .
 - 💪🏼 Objectifs futurs : En savoir plus sur le développement - N'arrêtez jamais de créer de nouvelles idées..
 
 ---
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-bgstatic.vercel.app/api/spotify)](https:/open.spotify.com/user/cald9c0x8e6r7dsbcinhid7ph?si=0d12eeb17324416c)
+[![Spotify](https://novatorem-bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
 
 ---
 
