@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Je suis étudiant en informatique
+## 
 
 - 👨‍💻 Developement Lua, html, java-script, css .
 - 💪🏼 Objectifs futurs : En savoir plus sur le développement - N'arrêtez jamais de créer de nouvelles idées..
