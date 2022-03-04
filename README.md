@@ -20,7 +20,7 @@
 ### <p align="center">👀 &nbsp;Stalkers</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Extasy93/count.svg" />
+  <img src="https://profile-counter.glitch.me/LeFaB-Fivem/count.svg" />
 </p>
 <br>
 
