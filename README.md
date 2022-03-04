@@ -17,12 +17,11 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
+### <p align="center">👀 &nbsp;Stalkers</p>
+<br>
 <p align="center">
-<a href="https://github.com/LeFaB-Fivem">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeFaB-Fivem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <img src="https://profile-counter.glitch.me/Extasy93/count.svg" />
 </p>
+<br>
 
 <br/>
